@@ -6,9 +6,9 @@ import (
 
 	"github.com/americanas-go/config"
 	h "github.com/americanas-go/health"
-	"github.com/americanas-go/ignite/go-redis/redis.v7"
-	"github.com/americanas-go/ignite/go-redis/redis.v7/plugins/core/health"
-	"github.com/americanas-go/ignite/sirupsen/logrus.v1"
+	"github.com/jvitoroc/ignite/go-redis/redis.v7"
+	"github.com/jvitoroc/ignite/go-redis/redis.v7/plugins/core/health"
+	"github.com/jvitoroc/ignite/sirupsen/logrus.v1"
 	"github.com/americanas-go/log"
 )
 

@@ -4,9 +4,9 @@ import (
 	"context"
 
 	"github.com/americanas-go/config"
-	"github.com/americanas-go/ignite/go-resty/resty.v2"
-	"github.com/americanas-go/ignite/go-resty/resty.v2/plugins/core/health"
-	"github.com/americanas-go/ignite/sirupsen/logrus.v1"
+	"github.com/jvitoroc/ignite/go-resty/resty.v2"
+	"github.com/jvitoroc/ignite/go-resty/resty.v2/plugins/core/health"
+	"github.com/jvitoroc/ignite/sirupsen/logrus.v1"
 	"github.com/americanas-go/log"
 	r "github.com/go-resty/resty/v2"
 )

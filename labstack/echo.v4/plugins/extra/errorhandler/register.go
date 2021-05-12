@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/americanas-go/ignite/labstack/echo.v4"
+	"github.com/jvitoroc/ignite/labstack/echo.v4"
 	"github.com/americanas-go/log"
 	response "github.com/americanas-go/rest-response"
 	e "github.com/labstack/echo/v4"

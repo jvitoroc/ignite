@@ -3,8 +3,8 @@ package newrelic
 import (
 	"context"
 
-	newrelic "github.com/americanas-go/ignite/newrelic/go-agent.v3"
-	"github.com/americanas-go/ignite/panjf2000/ants.v2"
+	newrelic "github.com/jvitoroc/ignite/newrelic/go-agent.v3"
+	"github.com/jvitoroc/ignite/panjf2000/ants.v2"
 	"github.com/americanas-go/log"
 	nr "github.com/newrelic/go-agent/v3/newrelic"
 )

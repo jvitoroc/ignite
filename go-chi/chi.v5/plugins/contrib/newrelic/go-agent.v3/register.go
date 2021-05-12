@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/americanas-go/ignite/go-chi/chi.v5"
-	newrelic "github.com/americanas-go/ignite/newrelic/go-agent.v3"
+	"github.com/jvitoroc/ignite/go-chi/chi.v5"
+	newrelic "github.com/jvitoroc/ignite/newrelic/go-agent.v3"
 	"github.com/americanas-go/log"
 	"github.com/go-chi/chi/v5/middleware"
 	nr "github.com/newrelic/go-agent/v3/newrelic"
