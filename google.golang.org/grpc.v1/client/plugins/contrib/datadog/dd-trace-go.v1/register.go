@@ -3,7 +3,7 @@ package datadog
 import (
 	"context"
 
-	datadog "github.com/americanas-go/ignite/datadog/dd-trace-go.v1"
+	datadog "github.com/jvitoroc/ignite/datadog/dd-trace-go.v1"
 	"github.com/americanas-go/log"
 	"google.golang.org/grpc"
 	grpctrace "gopkg.in/DataDog/dd-trace-go.v1/contrib/google.golang.org/grpc"

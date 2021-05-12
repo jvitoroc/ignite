@@ -3,7 +3,7 @@ package newrelic
 import (
 	"context"
 
-	newrelic "github.com/americanas-go/ignite/newrelic/go-agent.v3"
+	newrelic "github.com/jvitoroc/ignite/newrelic/go-agent.v3"
 	"github.com/americanas-go/log"
 	"github.com/newrelic/go-agent/v3/integrations/nrgrpc"
 	"google.golang.org/grpc"
